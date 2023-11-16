@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nsu.ColiseumProblem.Host": {
+      "commandName": "Project",
+      "commandLineArgs": "-"
+    }
+  }
+}

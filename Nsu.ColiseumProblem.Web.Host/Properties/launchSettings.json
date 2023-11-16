@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nsu.ColiseumProblem.Web.Host": {
+      "commandName": "Project",
+      "commandLineArgs": "--elonport=5167 --markport=5168"
+    }
+  }
+}

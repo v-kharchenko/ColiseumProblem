@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nsu.ColiseumProblem.MassTransit.God": {
+      "commandName": "Project",
+      "commandLineArgs": "--elonport=5167 --markport=5168"
+    }
+  }
+}
