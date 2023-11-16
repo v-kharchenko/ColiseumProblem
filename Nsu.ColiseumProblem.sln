@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.Host", "Nsu.ColiseumProblem\Nsu.ColiseumProblem.Host.csproj", "{86732594-03E9-4F9D-8F10-BC69D502420A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.Host", "Nsu.ColiseumProblem.Host\Nsu.ColiseumProblem.Host.csproj", "{86732594-03E9-4F9D-8F10-BC69D502420A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.Contracts", "Nsu.ColiseumProblem.Contracts\Nsu.ColiseumProblem.Contracts.csproj", "{1A784693-311B-498E-B10F-829AF91BE0D8}"
 EndProject
@@ -30,11 +30,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.Web.Pla
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.Web.Host", "Nsu.ColiseumProblem.Web.Host\Nsu.ColiseumProblem.Web.Host.csproj", "{7D39EB62-9F39-4D04-B6B9-0EE5D257E4CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.ColiseumProblem.MassTransit.Player", "Nsu.ColiseumProblem.MassTransit.Player\Nsu.ColiseumProblem.MassTransit.Player.csproj", "{183157C4-9775-4236-8823-86E1B64C284D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.MassTransit.Player", "Nsu.ColiseumProblem.MassTransit.Player\Nsu.ColiseumProblem.MassTransit.Player.csproj", "{183157C4-9775-4236-8823-86E1B64C284D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.ColiseumProblem.MassTransit.God", "Nsu.ColiseumProblem.MassTransit.God\Nsu.ColiseumProblem.MassTransit.God.csproj", "{6A0058BB-BBC4-4067-892D-0C82B2D8EE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.MassTransit.God", "Nsu.ColiseumProblem.MassTransit.God\Nsu.ColiseumProblem.MassTransit.God.csproj", "{6A0058BB-BBC4-4067-892D-0C82B2D8EE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsu.ColiseumProblem.MassTransit.Entities", "Nsu.ColiseumProblem.MassTransit.Entities\Nsu.ColiseumProblem.MassTransit.Entities.csproj", "{6A67B114-3F6E-4EF7-9EB0-520D928C73C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nsu.ColiseumProblem.MassTransit.Entities", "Nsu.ColiseumProblem.MassTransit.Entities\Nsu.ColiseumProblem.MassTransit.Entities.csproj", "{6A67B114-3F6E-4EF7-9EB0-520D928C73C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
